@@ -1,8 +1,6 @@
 # Tic-Tac-Toe-in-Python
 A tic-tac-toe game in Python for two players. The game uses a 3x3 grid and checks for wins, draws and valid moves. You need Python 3 to run the game. Download the code and play in your terminal or IDE. Have fun! 😊
 
-# Tic Tac Toe
-
 This is a simple Python project of a tic-tac-toe game that can be played against another human player. The game uses a 3x3 grid and the players take turns to mark X or O on the board. The first player to get three marks in a row, column or diagonal wins the game. The game also checks for valid moves and draws.
 
 ## Requirements
